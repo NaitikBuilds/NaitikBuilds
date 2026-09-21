@@ -67,8 +67,6 @@ Team hackathon project that stress-tests AI agents before they reach production.
 
 - GitHub: [@NaitikBuilds](https://github.com/NaitikBuilds)
 
-<!-- ✅ TODO: uncomment and fill these in once you have the URLs ready:
-- LinkedIn: [Naitik Singh](https://www.linkedin.com/in/YOUR-HANDLE)
-- Portfolio: https://YOUR-PORTFOLIO-URL
-- Email: you@example.com
--->
+- LinkedIn: [Naitik Singh](https://www.linkedin.com/in/naitik-singh-builds)
+- Email: naitikchandel07@gmail.com
+<!-- - Portfolio: https://YOUR-PORTFOLIO-URL-->

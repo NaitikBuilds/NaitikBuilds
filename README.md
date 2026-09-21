@@ -97,14 +97,14 @@ Team hackathon project that stress-tests AI agents before they reach production.
 
 ## GitHub Stats
 
-<!-- These cards are rendered from real public GitHub data — nothing here is custom-generated. -->
+<!-- All cards render live from real public GitHub data — nothing here is hand-made. If one briefly shows an error, refresh: shared stats services occasionally rate-limit. -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaitikBuilds&show_icons=true&theme=github_dark&hide_border=true&count_private=false&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=e6edf3" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaitikBuilds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=NaitikBuilds&show_icons=true&hide_border=true&count_private=false&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=e6edf3&cache_seconds=86400" height="150" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaitikBuilds&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&cache_seconds=86400" height="150" alt="Top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaitikBuilds&bg_color=0d1117&color=e6edf3&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb33&hide_border=true" width="100%" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com?user=NaitikBuilds&hide_border=true&background=0d1117&stroke=0d1117&ring=1f6feb&fire=F97316&currStreakNum=e6edf3&currStreakLabel=58a6ff&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" alt="Contribution streak" />
 
 </div>
 
